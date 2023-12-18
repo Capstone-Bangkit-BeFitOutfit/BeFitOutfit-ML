@@ -8,11 +8,9 @@ import numpy as np
 # Parameter
 num_classes = 10 
 input_shape = (28, 28, 3)
-
 # Data generator
 train_datagen = ImageDataGenerator(rescale=1./255)
 test_datagen = ImageDataGenerator(rescale=1./255)
-
 train_generator = train_datagen.flow_from_directory(
         'data/train',  
         target_size=(28, 28),
