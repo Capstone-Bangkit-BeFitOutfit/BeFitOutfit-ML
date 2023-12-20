@@ -1,0 +1,3 @@
+labels = ["concert", "graduation", "meeting", "mountain-trip", "picnic",
+                    "sea-holiday", "ski-holiday", "wedding", "conference", "exhibition", "fashion",
+                    "protest", "sport", "theater-dance"]
