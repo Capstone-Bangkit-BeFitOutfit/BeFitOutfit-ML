@@ -9,7 +9,7 @@ This machine learning model will measure how suitable the outfit the user will w
 
 ## Installation & Setup
 1. Clone the repository
-2. download the dataset <a ref="https://github.com/fedebecat/Fashion4Events">Here</a>
+2. download the dataset [Here](https://github.com/fedebecat/Fashion4Events)
 3. Extract the dataset zip files and locate them in the same cloned directory
 4. Run `model4.ipynb` to get `model.h5`
 5. Run `h5_to_tflite.ipynb` to convert h5 model format to be tflite format
